@@ -11,3 +11,5 @@ void loop() {
   //-----------------------------------------------------
   delay(1000);           //đợi 1 giây để bạn kịp tháy serial - (optional)
 }
+
+// chênh lệch tầm 50 sẽ báo cháy
